@@ -1,3 +1,12 @@
+Touchline FC 3D 1.9.1 | 2026-11-25
+
+94 automated tests passed, including a Korean asset path under a legacy
+filename encoding. The frozen Linux software-render smoke and capture runs
+passed with Korean names in the game, log, temporary and capture directories.
+Windows startup batch files contain ASCII with CRLF line endings and leave the
+console code page alone. The Windows x64 binaries were cross-built. The reported
+failure was not reproduced on a native Windows PC.
+
 Touchline FC 3D 1.9.0 | 2026-11-25
 
 93 automated tests and 192/192 clear-lane pass receptions passed. The far and

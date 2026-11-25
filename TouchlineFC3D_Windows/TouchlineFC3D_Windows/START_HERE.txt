@@ -1,4 +1,4 @@
-Touchline FC 3D 1.9.0
+Touchline FC 3D 1.9.1
 
 1. Extract the ENTIRE ZIP into a NEW folder.
 2. Double-click START_GAME.bat.
@@ -15,4 +15,7 @@ Default: EASY AI / LOW graphics. Change these in Settings.
 Step-over with the ball: Shift+Up or Shift+I. Left foot: Shift+U. Right foot: Shift+O.
 
 Choose Knockout to play extra time and a shoot-out when tied.
-LAN: both computers need 1.9.0.
+LAN: versions 1.9.0 and 1.9.1 use the same protocol.
+
+For a UTF-8 startup error, extract the complete ZIP to an ASCII-only path,
+such as C:\Games\TouchlineFC3D. SHOW_ERROR.bat opens the startup log.
