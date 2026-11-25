@@ -1,0 +1,30 @@
+{
+  "root": "/workspace/scratch/01f57f725ae6/benchmark_baseline_v140/TouchlineFC3D_Source",
+  "resolution": [
+    1280,
+    720
+  ],
+  "quality": "LOW",
+  "frames": 150,
+  "init_ms": 1156.63,
+  "renderer": "llvmpipe (LLVM 19.1.7, 256 bits)",
+  "render_geom_count": 231,
+  "timings": {
+    "physics": {
+      "median_ms": 0.455,
+      "p95_ms": 0.594
+    },
+    "scene_hud": {
+      "median_ms": 0.683,
+      "p95_ms": 0.907
+    },
+    "render_readback": {
+      "median_ms": 7.824,
+      "p95_ms": 9.898
+    },
+    "total": {
+      "median_ms": 8.936,
+      "p95_ms": 11.138
+    }
+  }
+}

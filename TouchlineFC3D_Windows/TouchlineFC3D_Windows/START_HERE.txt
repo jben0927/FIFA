@@ -1,0 +1,18 @@
+Touchline FC 3D 1.9.0
+
+1. Extract the ENTIRE ZIP into a NEW folder.
+2. Double-click START_GAME.bat.
+3. If it cannot open, try START_COMPATIBLE.bat (software 3D, slower).
+4. SHOW_ERROR.bat opens the startup log.
+
+Do not move the EXE away from the assets folder or DLL files.
+No separate Python installation is required. Windows 10/11 x64.
+The Windows executable is cross-built; native Windows execution is not verified.
+
+If play is slow, use START_LOW.bat (1024x576 GPU, performance quality).
+Default: EASY AI / LOW graphics. Change these in Settings.
+
+Step-over with the ball: Shift+Up or Shift+I. Left foot: Shift+U. Right foot: Shift+O.
+
+Choose Knockout to play extra time and a shoot-out when tied.
+LAN: both computers need 1.9.0.

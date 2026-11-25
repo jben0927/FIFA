@@ -1,0 +1,1889 @@
+[
+  {
+    "index": 0,
+    "name": "T. Courtois",
+    "evidence": {
+      "18 WC": {
+        "id": 3509,
+        "name": "Thibaut Courtois"
+      },
+      "22 WC": {
+        "id": 3509,
+        "name": "Thibaut Courtois"
+      }
+    }
+  },
+  {
+    "index": 1,
+    "name": "Nuno Mendes",
+    "evidence": {
+      "22 WC": {
+        "id": 41092,
+        "name": "Nuno Mendes"
+      },
+      "24 EURO": {
+        "id": 41092,
+        "name": "Nuno Mendes"
+      }
+    }
+  },
+  {
+    "index": 2,
+    "name": "V. van Dijk",
+    "evidence": {
+      "22 WC": {
+        "id": 3669,
+        "name": "Virgil van Dijk"
+      },
+      "24 EURO": {
+        "id": 3669,
+        "name": "Virgil van Dijk"
+      }
+    }
+  },
+  {
+    "index": 3,
+    "name": "W. Saliba",
+    "evidence": {
+      "22 WC": {
+        "id": 17592,
+        "name": "William Saliba"
+      },
+      "24 EURO": {
+        "id": 17592,
+        "name": "William Saliba"
+      }
+    }
+  },
+  {
+    "index": 4,
+    "name": "A. Hakimi",
+    "evidence": {
+      "18 WC": {
+        "id": 5245,
+        "name": "Achraf Hakimi Mouh"
+      },
+      "22 WC": {
+        "id": 5245,
+        "name": "Achraf Hakimi Mouh"
+      }
+    }
+  },
+  {
+    "index": 5,
+    "name": "Pedri",
+    "evidence": {
+      "22 WC": {
+        "id": 30486,
+        "name": "Pedro González López"
+      },
+      "24 EURO": {
+        "id": 30486,
+        "name": "Pedro González López"
+      }
+    }
+  },
+  {
+    "index": 6,
+    "name": "Rodri",
+    "evidence": {
+      "22 WC": {
+        "id": 6765,
+        "name": "Rodrigo Hernández Cascante"
+      },
+      "24 EURO": {
+        "id": 6765,
+        "name": "Rodrigo Hernández Cascante"
+      }
+    }
+  },
+  {
+    "index": 7,
+    "name": "J. Bellingham",
+    "evidence": {
+      "22 WC": {
+        "id": 30714,
+        "name": "Jude Bellingham"
+      },
+      "24 EURO": {
+        "id": 30714,
+        "name": "Jude Bellingham"
+      }
+    }
+  },
+  {
+    "index": 8,
+    "name": "Son Heung-min",
+    "evidence": {
+      "18 WC": {
+        "id": 3083,
+        "name": "Heung-Min Son"
+      },
+      "22 WC": {
+        "id": 3083,
+        "name": "Heung-Min Son"
+      }
+    }
+  },
+  {
+    "index": 9,
+    "name": "E. Haaland",
+    "evidence": {}
+  },
+  {
+    "index": 10,
+    "name": "L. Messi",
+    "evidence": {
+      "18 WC": {
+        "id": 5503,
+        "name": "Lionel Andrés Messi Cuccittini"
+      },
+      "22 WC": {
+        "id": 5503,
+        "name": "Lionel Andrés Messi Cuccittini"
+      }
+    }
+  },
+  {
+    "index": 11,
+    "name": "David Raya",
+    "evidence": {
+      "24 EURO": {
+        "id": 4127,
+        "name": "David Raya Martin"
+      }
+    }
+  },
+  {
+    "index": 12,
+    "name": "Pau Cubarsi",
+    "evidence": {}
+  },
+  {
+    "index": 13,
+    "name": "Gabriel",
+    "evidence": {}
+  },
+  {
+    "index": 14,
+    "name": "M. Cucurella",
+    "evidence": {
+      "24 EURO": {
+        "id": 17620,
+        "name": "Marc Cucurella Saseta"
+      }
+    }
+  },
+  {
+    "index": 15,
+    "name": "D. Upamecano",
+    "evidence": {
+      "22 WC": {
+        "id": 8519,
+        "name": "Dayotchanculle Upamecano"
+      },
+      "24 EURO": {
+        "id": 8519,
+        "name": "Dayotchanculle Upamecano"
+      }
+    }
+  },
+  {
+    "index": 16,
+    "name": "D. Rice",
+    "evidence": {
+      "22 WC": {
+        "id": 3943,
+        "name": "Declan Rice"
+      },
+      "24 EURO": {
+        "id": 3943,
+        "name": "Declan Rice"
+      }
+    }
+  },
+  {
+    "index": 17,
+    "name": "Vitinha",
+    "evidence": {
+      "22 WC": {
+        "id": 34639,
+        "name": "Vitor Machado Ferreira"
+      },
+      "24 EURO": {
+        "id": 34639,
+        "name": "Vitor Machado Ferreira"
+      }
+    }
+  },
+  {
+    "index": 18,
+    "name": "Bruno Fernandes",
+    "evidence": {
+      "18 WC": {
+        "id": 5204,
+        "name": "Bruno Miguel Borges Fernandes"
+      },
+      "22 WC": {
+        "id": 5204,
+        "name": "Bruno Miguel Borges Fernandes"
+      },
+      "24 EURO": {
+        "id": 5204,
+        "name": "Bruno Miguel Borges Fernandes"
+      }
+    }
+  },
+  {
+    "index": 19,
+    "name": "M. Olise",
+    "evidence": {}
+  },
+  {
+    "index": 20,
+    "name": "K. Mbappe",
+    "evidence": {
+      "18 WC": {
+        "id": 3009,
+        "name": "Kylian Mbappé Lottin"
+      },
+      "22 WC": {
+        "id": 3009,
+        "name": "Kylian Mbappé Lottin"
+      },
+      "24 EURO": {
+        "id": 3009,
+        "name": "Kylian Mbappé Lottin"
+      }
+    }
+  },
+  {
+    "index": 21,
+    "name": "H. Kane",
+    "evidence": {
+      "18 WC": {
+        "id": 10955,
+        "name": "Harry Kane"
+      },
+      "22 WC": {
+        "id": 10955,
+        "name": "Harry Kane"
+      },
+      "24 EURO": {
+        "id": 10955,
+        "name": "Harry Kane"
+      }
+    }
+  },
+  {
+    "index": 22,
+    "name": "C. Ronaldo",
+    "evidence": {
+      "18 WC": {
+        "id": 5207,
+        "name": "Cristiano Ronaldo dos Santos Aveiro"
+      },
+      "22 WC": {
+        "id": 5207,
+        "name": "Cristiano Ronaldo dos Santos Aveiro"
+      },
+      "24 EURO": {
+        "id": 5207,
+        "name": "Cristiano Ronaldo dos Santos Aveiro"
+      }
+    }
+  },
+  {
+    "index": 23,
+    "name": "E. Martinez",
+    "evidence": {
+      "22 WC": {
+        "id": 6909,
+        "name": "Damián Emiliano Martínez"
+      }
+    }
+  },
+  {
+    "index": 24,
+    "name": "Enzo Fernandez",
+    "evidence": {
+      "22 WC": {
+        "id": 38718,
+        "name": "Enzo Fernandez"
+      }
+    }
+  },
+  {
+    "index": 25,
+    "name": "K. Kvaratskhelia",
+    "evidence": {
+      "24 EURO": {
+        "id": 38229,
+        "name": "Khvicha Kvaratskhelia"
+      }
+    }
+  },
+  {
+    "index": 26,
+    "name": "Lamine Yamal",
+    "evidence": {
+      "24 EURO": {
+        "id": 316046,
+        "name": "Lamine Yamal Nasraoui Ebana"
+      }
+    }
+  },
+  {
+    "index": 27,
+    "name": "M. Salah",
+    "evidence": {
+      "18 WC": {
+        "id": 3531,
+        "name": "Mohamed Salah"
+      }
+    }
+  },
+  {
+    "index": 28,
+    "name": "K. De Bruyne",
+    "evidence": {
+      "18 WC": {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+      },
+      "22 WC": {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+      },
+      "24 EURO": {
+        "id": 3089,
+        "name": "Kevin De Bruyne"
+      }
+    }
+  },
+  {
+    "index": 29,
+    "name": "Vinicius Jr",
+    "evidence": {
+      "22 WC": {
+        "id": 18395,
+        "name": "Vinícius José Paixão de Oliveira Júnior"
+      }
+    }
+  },
+  {
+    "index": 30,
+    "name": "Raphinha",
+    "evidence": {
+      "22 WC": {
+        "id": 10595,
+        "name": "Raphael Dias Belloli"
+      }
+    }
+  },
+  {
+    "index": 31,
+    "name": "O. Dembele",
+    "evidence": {
+      "18 WC": {
+        "id": 5477,
+        "name": "Ousmane Dembélé"
+      },
+      "22 WC": {
+        "id": 5477,
+        "name": "Ousmane Dembélé"
+      },
+      "24 EURO": {
+        "id": 5477,
+        "name": "Ousmane Dembélé"
+      }
+    }
+  },
+  {
+    "index": 32,
+    "name": "F. Wirtz",
+    "evidence": {
+      "24 EURO": {
+        "id": 40724,
+        "name": "Florian Wirtz"
+      }
+    }
+  },
+  {
+    "index": 33,
+    "name": "J. Musiala",
+    "evidence": {
+      "22 WC": {
+        "id": 39565,
+        "name": "Jamal Musiala"
+      },
+      "24 EURO": {
+        "id": 39565,
+        "name": "Jamal Musiala"
+      }
+    }
+  },
+  {
+    "index": 34,
+    "name": "B. Saka",
+    "evidence": {
+      "22 WC": {
+        "id": 22084,
+        "name": "Bukayo Saka"
+      },
+      "24 EURO": {
+        "id": 22084,
+        "name": "Bukayo Saka"
+      }
+    }
+  },
+  {
+    "index": 35,
+    "name": "C. Palmer",
+    "evidence": {
+      "24 EURO": {
+        "id": 39461,
+        "name": "Cole Palmer"
+      }
+    }
+  },
+  {
+    "index": 36,
+    "name": "P. Foden",
+    "evidence": {
+      "22 WC": {
+        "id": 4354,
+        "name": "Philip Foden"
+      },
+      "24 EURO": {
+        "id": 4354,
+        "name": "Phil Foden"
+      }
+    }
+  },
+  {
+    "index": 37,
+    "name": "M. Odegaard",
+    "evidence": {}
+  },
+  {
+    "index": 38,
+    "name": "F. Valverde",
+    "evidence": {
+      "22 WC": {
+        "id": 6773,
+        "name": "Federico Santiago Valverde Dipetta"
+      }
+    }
+  },
+  {
+    "index": 39,
+    "name": "L. Martinez",
+    "evidence": {
+      "22 WC": {
+        "id": 11456,
+        "name": "Lautaro Javier Martínez"
+      }
+    }
+  },
+  {
+    "index": 40,
+    "name": "J. Alvarez",
+    "evidence": {
+      "22 WC": {
+        "id": 29560,
+        "name": "Julián Álvarez"
+      }
+    }
+  },
+  {
+    "index": 41,
+    "name": "A. Isak",
+    "evidence": {}
+  },
+  {
+    "index": 42,
+    "name": "V. Gyokeres",
+    "evidence": {}
+  },
+  {
+    "index": 43,
+    "name": "V. Osimhen",
+    "evidence": {}
+  },
+  {
+    "index": 44,
+    "name": "R. Lewandowski",
+    "evidence": {
+      "18 WC": {
+        "id": 5668,
+        "name": "Robert Lewandowski"
+      },
+      "22 WC": {
+        "id": 5668,
+        "name": "Robert Lewandowski"
+      },
+      "24 EURO": {
+        "id": 5668,
+        "name": "Robert Lewandowski"
+      }
+    }
+  },
+  {
+    "index": 45,
+    "name": "Neymar",
+    "evidence": {
+      "18 WC": {
+        "id": 4320,
+        "name": "Neymar da Silva Santos Junior"
+      },
+      "22 WC": {
+        "id": 4320,
+        "name": "Neymar da Silva Santos Junior"
+      }
+    }
+  },
+  {
+    "index": 46,
+    "name": "R. Leao",
+    "evidence": {
+      "22 WC": {
+        "id": 18360,
+        "name": "Rafael Alexandre Conceição Leão"
+      },
+      "24 EURO": {
+        "id": 18360,
+        "name": "Rafael Alexandre Conceição Leão"
+      }
+    }
+  },
+  {
+    "index": 47,
+    "name": "L. Diaz",
+    "evidence": {}
+  },
+  {
+    "index": 48,
+    "name": "L. Sane",
+    "evidence": {
+      "22 WC": {
+        "id": 3053,
+        "name": "Leroy Sané"
+      },
+      "24 EURO": {
+        "id": 3053,
+        "name": "Leroy Sané"
+      }
+    }
+  },
+  {
+    "index": 49,
+    "name": "N. Williams",
+    "evidence": {
+      "22 WC": {
+        "id": 68574,
+        "name": "Nicholas Williams Arthuer"
+      },
+      "24 EURO": {
+        "id": 68574,
+        "name": "Nicholas Williams Arthuer"
+      }
+    }
+  },
+  {
+    "index": 50,
+    "name": "Dani Olmo",
+    "evidence": {
+      "22 WC": {
+        "id": 16532,
+        "name": "Daniel Olmo Carvajal"
+      },
+      "24 EURO": {
+        "id": 16532,
+        "name": "Daniel Olmo Carvajal"
+      }
+    }
+  },
+  {
+    "index": 51,
+    "name": "D. Szoboszlai",
+    "evidence": {
+      "24 EURO": {
+        "id": 21209,
+        "name": "Dominik Szoboszlai"
+      }
+    }
+  },
+  {
+    "index": 52,
+    "name": "X. Simons",
+    "evidence": {
+      "22 WC": {
+        "id": 39167,
+        "name": "Xavi Simons"
+      },
+      "24 EURO": {
+        "id": 39167,
+        "name": "Xavi Simons"
+      }
+    }
+  },
+  {
+    "index": 53,
+    "name": "J. Doku",
+    "evidence": {
+      "22 WC": {
+        "id": 23650,
+        "name": "Jeremy Doku"
+      },
+      "24 EURO": {
+        "id": 23650,
+        "name": "Jeremy Doku"
+      }
+    }
+  },
+  {
+    "index": 54,
+    "name": "B. Barcola",
+    "evidence": {
+      "24 EURO": {
+        "id": 39420,
+        "name": "Bradley Barcola"
+      }
+    }
+  },
+  {
+    "index": 55,
+    "name": "D. Doue",
+    "evidence": {}
+  },
+  {
+    "index": 56,
+    "name": "E. Eze",
+    "evidence": {
+      "24 EURO": {
+        "id": 9000,
+        "name": "Eberechi Eze"
+      }
+    }
+  },
+  {
+    "index": 57,
+    "name": "M. Rashford",
+    "evidence": {
+      "18 WC": {
+        "id": 3318,
+        "name": "Marcus Rashford"
+      },
+      "22 WC": {
+        "id": 3318,
+        "name": "Marcus Rashford"
+      }
+    }
+  },
+  {
+    "index": 58,
+    "name": "A. Griezmann",
+    "evidence": {
+      "18 WC": {
+        "id": 5487,
+        "name": "Antoine Griezmann"
+      },
+      "22 WC": {
+        "id": 5487,
+        "name": "Antoine Griezmann"
+      },
+      "24 EURO": {
+        "id": 5487,
+        "name": "Antoine Griezmann"
+      }
+    }
+  },
+  {
+    "index": 59,
+    "name": "O. Watkins",
+    "evidence": {
+      "24 EURO": {
+        "id": 4760,
+        "name": "Ollie Watkins"
+      }
+    }
+  },
+  {
+    "index": 60,
+    "name": "J. David",
+    "evidence": {
+      "22 WC": {
+        "id": 23640,
+        "name": "Jonathan David"
+      }
+    }
+  },
+  {
+    "index": 61,
+    "name": "V. Boniface",
+    "evidence": {}
+  },
+  {
+    "index": 62,
+    "name": "A. Lookman",
+    "evidence": {}
+  },
+  {
+    "index": 63,
+    "name": "S. Guirassy",
+    "evidence": {}
+  },
+  {
+    "index": 64,
+    "name": "H. Calhanoglu",
+    "evidence": {
+      "24 EURO": {
+        "id": 7039,
+        "name": "Hakan Çalhanoğlu"
+      }
+    }
+  },
+  {
+    "index": 65,
+    "name": "N. Barella",
+    "evidence": {
+      "24 EURO": {
+        "id": 8181,
+        "name": "Nicolò Barella"
+      }
+    }
+  },
+  {
+    "index": 66,
+    "name": "A. Bastoni",
+    "evidence": {
+      "24 EURO": {
+        "id": 7480,
+        "name": "Alessandro Bastoni"
+      }
+    }
+  },
+  {
+    "index": 67,
+    "name": "F. Dimarco",
+    "evidence": {
+      "24 EURO": {
+        "id": 12255,
+        "name": "Federico Dimarco"
+      }
+    }
+  },
+  {
+    "index": 68,
+    "name": "S. Tonali",
+    "evidence": {}
+  },
+  {
+    "index": 69,
+    "name": "M. Caicedo",
+    "evidence": {
+      "22 WC": {
+        "id": 37726,
+        "name": "Moisés Isaac Caicedo Corozo"
+      }
+    }
+  },
+  {
+    "index": 70,
+    "name": "A. Mac Allister",
+    "evidence": {
+      "22 WC": {
+        "id": 27886,
+        "name": "Alexis Mac Allister"
+      }
+    }
+  },
+  {
+    "index": 71,
+    "name": "R. De Paul",
+    "evidence": {
+      "22 WC": {
+        "id": 7797,
+        "name": "Rodrigo Javier De Paul"
+      }
+    }
+  },
+  {
+    "index": 72,
+    "name": "E. Palacios",
+    "evidence": {
+      "22 WC": {
+        "id": 28268,
+        "name": "Exequiel Alejandro Palacios"
+      }
+    }
+  },
+  {
+    "index": 73,
+    "name": "G. Xhaka",
+    "evidence": {
+      "18 WC": {
+        "id": 3500,
+        "name": "Granit Xhaka"
+      },
+      "22 WC": {
+        "id": 3500,
+        "name": "Granit Xhaka"
+      },
+      "24 EURO": {
+        "id": 3500,
+        "name": "Granit Xhaka"
+      }
+    }
+  },
+  {
+    "index": 74,
+    "name": "J. Kimmich",
+    "evidence": {
+      "18 WC": {
+        "id": 5579,
+        "name": "Joshua Kimmich"
+      },
+      "22 WC": {
+        "id": 5579,
+        "name": "Joshua Kimmich"
+      },
+      "24 EURO": {
+        "id": 5579,
+        "name": "Joshua Kimmich"
+      }
+    }
+  },
+  {
+    "index": 75,
+    "name": "L. Goretzka",
+    "evidence": {
+      "18 WC": {
+        "id": 6324,
+        "name": "Leon Goretzka"
+      },
+      "22 WC": {
+        "id": 6324,
+        "name": "Leon Goretzka"
+      }
+    }
+  },
+  {
+    "index": 76,
+    "name": "L. Modric",
+    "evidence": {
+      "18 WC": {
+        "id": 5463,
+        "name": "Luka Modrić"
+      },
+      "22 WC": {
+        "id": 5463,
+        "name": "Luka Modrić"
+      },
+      "24 EURO": {
+        "id": 5463,
+        "name": "Luka Modrić"
+      }
+    }
+  },
+  {
+    "index": 77,
+    "name": "M. Kovacic",
+    "evidence": {
+      "18 WC": {
+        "id": 5456,
+        "name": "Mateo Kovačić"
+      },
+      "22 WC": {
+        "id": 5456,
+        "name": "Mateo Kovačić"
+      },
+      "24 EURO": {
+        "id": 5456,
+        "name": "Mateo Kovačić"
+      }
+    }
+  },
+  {
+    "index": 78,
+    "name": "Bernardo Silva",
+    "evidence": {
+      "18 WC": {
+        "id": 3193,
+        "name": "Bernardo Mota Veiga de Carvalho e Silva"
+      },
+      "22 WC": {
+        "id": 3193,
+        "name": "Bernardo Mota Veiga de Carvalho e Silva"
+      },
+      "24 EURO": {
+        "id": 3193,
+        "name": "Bernardo Mota Veiga de Carvalho e Silva"
+      }
+    }
+  },
+  {
+    "index": 79,
+    "name": "B. Guimaraes",
+    "evidence": {
+      "22 WC": {
+        "id": 25142,
+        "name": "Bruno Guimarães Rodriguez Moura"
+      }
+    }
+  },
+  {
+    "index": 80,
+    "name": "Joelinton",
+    "evidence": {}
+  },
+  {
+    "index": 81,
+    "name": "E. Camavinga",
+    "evidence": {
+      "22 WC": {
+        "id": 24778,
+        "name": "Eduardo Camavinga"
+      },
+      "24 EURO": {
+        "id": 24778,
+        "name": "Eduardo Camavinga"
+      }
+    }
+  },
+  {
+    "index": 82,
+    "name": "A. Tchouameni",
+    "evidence": {
+      "22 WC": {
+        "id": 10481,
+        "name": "Aurélien Djani Tchouaméni"
+      },
+      "24 EURO": {
+        "id": 10481,
+        "name": "Aurélien Djani Tchouaméni"
+      }
+    }
+  },
+  {
+    "index": 83,
+    "name": "W. Zaire-Emery",
+    "evidence": {}
+  },
+  {
+    "index": 84,
+    "name": "Joao Neves",
+    "evidence": {
+      "24 EURO": {
+        "id": 143859,
+        "name": "João Neves"
+      }
+    }
+  },
+  {
+    "index": 85,
+    "name": "F. Ruiz",
+    "evidence": {
+      "24 EURO": {
+        "id": 6655,
+        "name": "Fabián Ruiz Peña"
+      }
+    }
+  },
+  {
+    "index": 86,
+    "name": "M. Zubimendi",
+    "evidence": {
+      "24 EURO": {
+        "id": 24921,
+        "name": "Martín Zubimendi Ibáñez"
+      }
+    }
+  },
+  {
+    "index": 87,
+    "name": "M. Merino",
+    "evidence": {
+      "24 EURO": {
+        "id": 3042,
+        "name": "Mikel Merino Zazón"
+      }
+    }
+  },
+  {
+    "index": 88,
+    "name": "A. Guler",
+    "evidence": {
+      "24 EURO": {
+        "id": 116587,
+        "name": "Arda Güler"
+      }
+    }
+  },
+  {
+    "index": 89,
+    "name": "K. Yildiz",
+    "evidence": {
+      "24 EURO": {
+        "id": 151813,
+        "name": "Kenan Yildiz"
+      }
+    }
+  },
+  {
+    "index": 90,
+    "name": "Alisson",
+    "evidence": {
+      "18 WC": {
+        "id": 5547,
+        "name": "Alisson Ramsés Becker"
+      },
+      "22 WC": {
+        "id": 5547,
+        "name": "Alisson Ramsés Becker"
+      }
+    }
+  },
+  {
+    "index": 91,
+    "name": "Ederson",
+    "evidence": {
+      "22 WC": {
+        "id": 3067,
+        "name": "Ederson Santana de Moraes"
+      }
+    }
+  },
+  {
+    "index": 92,
+    "name": "G. Donnarumma",
+    "evidence": {
+      "24 EURO": {
+        "id": 7036,
+        "name": "Gianluigi Donnarumma"
+      }
+    }
+  },
+  {
+    "index": 93,
+    "name": "M. Maignan",
+    "evidence": {
+      "24 EURO": {
+        "id": 3761,
+        "name": "Mike Maignan"
+      }
+    }
+  },
+  {
+    "index": 94,
+    "name": "J. Oblak",
+    "evidence": {
+      "24 EURO": {
+        "id": 6378,
+        "name": "Jan Oblak"
+      }
+    }
+  },
+  {
+    "index": 95,
+    "name": "M. Neuer",
+    "evidence": {
+      "18 WC": {
+        "id": 5570,
+        "name": "Manuel Neuer"
+      },
+      "22 WC": {
+        "id": 5570,
+        "name": "Manuel Neuer"
+      },
+      "24 EURO": {
+        "id": 5570,
+        "name": "Manuel Neuer"
+      }
+    }
+  },
+  {
+    "index": 96,
+    "name": "M. ter Stegen",
+    "evidence": {}
+  },
+  {
+    "index": 97,
+    "name": "G. Kobel",
+    "evidence": {
+      "22 WC": {
+        "id": 17974,
+        "name": "Gregor Kobel"
+      }
+    }
+  },
+  {
+    "index": 98,
+    "name": "Y. Sommer",
+    "evidence": {
+      "18 WC": {
+        "id": 5550,
+        "name": "Yann Sommer"
+      },
+      "22 WC": {
+        "id": 5550,
+        "name": "Yann Sommer"
+      },
+      "24 EURO": {
+        "id": 5550,
+        "name": "Yann Sommer"
+      }
+    }
+  },
+  {
+    "index": 99,
+    "name": "J. Pickford",
+    "evidence": {
+      "18 WC": {
+        "id": 3468,
+        "name": "Jordan Pickford"
+      },
+      "22 WC": {
+        "id": 3468,
+        "name": "Jordan Pickford"
+      },
+      "24 EURO": {
+        "id": 3468,
+        "name": "Jordan Pickford"
+      }
+    }
+  },
+  {
+    "index": 100,
+    "name": "Unai Simon",
+    "evidence": {
+      "22 WC": {
+        "id": 11748,
+        "name": "Unai Simón Mendibil"
+      },
+      "24 EURO": {
+        "id": 11748,
+        "name": "Unai Simón Mendibil"
+      }
+    }
+  },
+  {
+    "index": 101,
+    "name": "Diogo Costa",
+    "evidence": {
+      "22 WC": {
+        "id": 32975,
+        "name": "Diogo Meireles Costa"
+      },
+      "24 EURO": {
+        "id": 32975,
+        "name": "Diogo Meireles Costa"
+      }
+    }
+  },
+  {
+    "index": 102,
+    "name": "R. Dias",
+    "evidence": {
+      "22 WC": {
+        "id": 5206,
+        "name": "Rúben Santos Gato Alves Dias"
+      },
+      "24 EURO": {
+        "id": 5206,
+        "name": "Rúben Santos Gato Alves Dias"
+      }
+    }
+  },
+  {
+    "index": 103,
+    "name": "A. Rudiger",
+    "evidence": {
+      "18 WC": {
+        "id": 3167,
+        "name": "Antonio Rüdiger"
+      },
+      "22 WC": {
+        "id": 3167,
+        "name": "Antonio Rüdiger"
+      },
+      "24 EURO": {
+        "id": 3167,
+        "name": "Antonio Rüdiger"
+      }
+    }
+  },
+  {
+    "index": 104,
+    "name": "J. Stones",
+    "evidence": {
+      "18 WC": {
+        "id": 3244,
+        "name": "John Stones"
+      },
+      "22 WC": {
+        "id": 3244,
+        "name": "John Stones"
+      },
+      "24 EURO": {
+        "id": 3244,
+        "name": "John Stones"
+      }
+    }
+  },
+  {
+    "index": 105,
+    "name": "M. Akanji",
+    "evidence": {
+      "18 WC": {
+        "id": 5549,
+        "name": "Manuel Obafemi Akanji"
+      },
+      "22 WC": {
+        "id": 5549,
+        "name": "Manuel Obafemi Akanji"
+      },
+      "24 EURO": {
+        "id": 5549,
+        "name": "Manuel Obafemi Akanji"
+      }
+    }
+  },
+  {
+    "index": 106,
+    "name": "N. Ake",
+    "evidence": {
+      "22 WC": {
+        "id": 3306,
+        "name": "Nathan Aké"
+      },
+      "24 EURO": {
+        "id": 3306,
+        "name": "Nathan Aké"
+      }
+    }
+  },
+  {
+    "index": 107,
+    "name": "J. Gvardiol",
+    "evidence": {
+      "22 WC": {
+        "id": 33018,
+        "name": "Joško Gvardiol"
+      },
+      "24 EURO": {
+        "id": 33018,
+        "name": "Joško Gvardiol"
+      }
+    }
+  },
+  {
+    "index": 108,
+    "name": "M. de Ligt",
+    "evidence": {
+      "22 WC": {
+        "id": 8069,
+        "name": "Matthijs de Ligt"
+      }
+    }
+  },
+  {
+    "index": 109,
+    "name": "L. Hernandez",
+    "evidence": {
+      "18 WC": {
+        "id": 5484,
+        "name": "Lucas Hernández Pi"
+      },
+      "22 WC": {
+        "id": 5484,
+        "name": "Lucas Hernández Pi"
+      }
+    }
+  },
+  {
+    "index": 110,
+    "name": "Theo Hernandez",
+    "evidence": {
+      "22 WC": {
+        "id": 6704,
+        "name": "Theo Bernard François Hernández"
+      },
+      "24 EURO": {
+        "id": 6704,
+        "name": "Theo Bernard François Hernández"
+      }
+    }
+  },
+  {
+    "index": 111,
+    "name": "J. Kounde",
+    "evidence": {
+      "22 WC": {
+        "id": 4445,
+        "name": "Jules Koundé"
+      },
+      "24 EURO": {
+        "id": 4445,
+        "name": "Jules Koundé"
+      }
+    }
+  },
+  {
+    "index": 112,
+    "name": "I. Konate",
+    "evidence": {
+      "22 WC": {
+        "id": 11135,
+        "name": "Ibrahima Konaté"
+      }
+    }
+  },
+  {
+    "index": 113,
+    "name": "R. Araujo",
+    "evidence": {}
+  },
+  {
+    "index": 114,
+    "name": "Lisandro Martinez",
+    "evidence": {
+      "22 WC": {
+        "id": 27768,
+        "name": "Lisandro Martínez"
+      }
+    }
+  },
+  {
+    "index": 115,
+    "name": "C. Romero",
+    "evidence": {
+      "22 WC": {
+        "id": 20572,
+        "name": "Cristian Gabriel Romero"
+      }
+    }
+  },
+  {
+    "index": 116,
+    "name": "M. Acuna",
+    "evidence": {
+      "18 WC": {
+        "id": 19597,
+        "name": "Marcos Javier Acuña"
+      },
+      "22 WC": {
+        "id": 19597,
+        "name": "Marcos Javier Acuña"
+      }
+    }
+  },
+  {
+    "index": 117,
+    "name": "D. Carvajal",
+    "evidence": {
+      "18 WC": {
+        "id": 5721,
+        "name": "Daniel Carvajal Ramos"
+      },
+      "22 WC": {
+        "id": 5721,
+        "name": "Daniel Carvajal Ramos"
+      },
+      "24 EURO": {
+        "id": 5721,
+        "name": "Daniel Carvajal Ramos"
+      }
+    }
+  },
+  {
+    "index": 118,
+    "name": "T. Alexander-Arnold",
+    "evidence": {
+      "18 WC": {
+        "id": 3664,
+        "name": "Trent Alexander-Arnold"
+      },
+      "22 WC": {
+        "id": 3664,
+        "name": "Trent Alexander-Arnold"
+      },
+      "24 EURO": {
+        "id": 3664,
+        "name": "Trent Alexander-Arnold"
+      }
+    }
+  },
+  {
+    "index": 119,
+    "name": "K. Walker",
+    "evidence": {
+      "18 WC": {
+        "id": 3205,
+        "name": "Kyle Walker"
+      },
+      "22 WC": {
+        "id": 3205,
+        "name": "Kyle Walker"
+      },
+      "24 EURO": {
+        "id": 3205,
+        "name": "Kyle Walker"
+      }
+    }
+  },
+  {
+    "index": 120,
+    "name": "A. Robertson",
+    "evidence": {
+      "24 EURO": {
+        "id": 3655,
+        "name": "Andrew Robertson"
+      }
+    }
+  },
+  {
+    "index": 121,
+    "name": "A. Davies",
+    "evidence": {
+      "22 WC": {
+        "id": 12365,
+        "name": "Alphonso Davies"
+      }
+    }
+  },
+  {
+    "index": 122,
+    "name": "J. Frimpong",
+    "evidence": {
+      "24 EURO": {
+        "id": 32712,
+        "name": "Jeremie Frimpong"
+      }
+    }
+  },
+  {
+    "index": 123,
+    "name": "A. Grimaldo",
+    "evidence": {
+      "24 EURO": {
+        "id": 10336,
+        "name": "Alejandro Grimaldo García"
+      }
+    }
+  },
+  {
+    "index": 124,
+    "name": "J. Cancelo",
+    "evidence": {
+      "22 WC": {
+        "id": 7005,
+        "name": "João Pedro Cavaco Cancelo"
+      },
+      "24 EURO": {
+        "id": 7005,
+        "name": "João Pedro Cavaco Cancelo"
+      }
+    }
+  },
+  {
+    "index": 125,
+    "name": "Pedro Porro",
+    "evidence": {}
+  },
+  {
+    "index": 126,
+    "name": "D. Dumfries",
+    "evidence": {
+      "22 WC": {
+        "id": 8125,
+        "name": "Denzel Dumfries"
+      },
+      "24 EURO": {
+        "id": 8125,
+        "name": "Denzel Dumfries"
+      }
+    }
+  },
+  {
+    "index": 127,
+    "name": "Kim Min-jae",
+    "evidence": {
+      "22 WC": {
+        "id": 43565,
+        "name": "Min Jae Kim"
+      }
+    }
+  },
+  {
+    "index": 128,
+    "name": "Lee Kang-in",
+    "evidence": {
+      "22 WC": {
+        "id": 22740,
+        "name": "Kang-In Lee"
+      }
+    }
+  },
+  {
+    "index": 129,
+    "name": "Hwang Hee-chan",
+    "evidence": {
+      "18 WC": {
+        "id": 5620,
+        "name": "Hee-Chan Hwang"
+      },
+      "22 WC": {
+        "id": 5620,
+        "name": "Hee-Chan Hwang"
+      }
+    }
+  },
+  {
+    "index": 130,
+    "name": "Cho Gue-sung",
+    "evidence": {
+      "22 WC": {
+        "id": 40542,
+        "name": "Gue-Sung Cho"
+      }
+    }
+  },
+  {
+    "index": 131,
+    "name": "Kim Seung-gyu",
+    "evidence": {
+      "22 WC": {
+        "id": 37641,
+        "name": "Seung-Gyu Kim"
+      }
+    }
+  },
+  {
+    "index": 132,
+    "name": "Lee Jae-sung",
+    "evidence": {
+      "18 WC": {
+        "id": 5623,
+        "name": "Jae-Sung Lee"
+      },
+      "22 WC": {
+        "id": 5623,
+        "name": "Jae-Sung Lee"
+      }
+    }
+  },
+  {
+    "index": 133,
+    "name": "Hwang In-beom",
+    "evidence": {
+      "22 WC": {
+        "id": 23763,
+        "name": "In-Beom Hwang"
+      }
+    }
+  },
+  {
+    "index": 134,
+    "name": "Takefusa Kubo",
+    "evidence": {
+      "22 WC": {
+        "id": 31090,
+        "name": "Takefusa Kubo"
+      }
+    }
+  },
+  {
+    "index": 135,
+    "name": "Kaoru Mitoma",
+    "evidence": {
+      "22 WC": {
+        "id": 37211,
+        "name": "Kaoru Mitoma"
+      }
+    }
+  },
+  {
+    "index": 136,
+    "name": "W. Endo",
+    "evidence": {
+      "22 WC": {
+        "id": 23721,
+        "name": "Wataru Endo"
+      }
+    }
+  },
+  {
+    "index": 137,
+    "name": "Mehdi Taremi",
+    "evidence": {
+      "18 WC": {
+        "id": 5226,
+        "name": "Mehdi Taremi"
+      },
+      "22 WC": {
+        "id": 5226,
+        "name": "Mehdi Taremi"
+      }
+    }
+  },
+  {
+    "index": 138,
+    "name": "S. Milinkovic-Savic",
+    "evidence": {
+      "18 WC": {
+        "id": 5589,
+        "name": "Sergej Milinković-Savić"
+      },
+      "22 WC": {
+        "id": 5589,
+        "name": "Sergej Milinković-Savić"
+      },
+      "24 EURO": {
+        "id": 5589,
+        "name": "Sergej Milinković-Savić"
+      }
+    }
+  },
+  {
+    "index": 139,
+    "name": "A. Mitrovic",
+    "evidence": {
+      "18 WC": {
+        "id": 4269,
+        "name": "Aleksandar Mitrović"
+      },
+      "22 WC": {
+        "id": 4269,
+        "name": "Aleksandar Mitrović"
+      },
+      "24 EURO": {
+        "id": 4269,
+        "name": "Aleksandar Mitrović"
+      }
+    }
+  },
+  {
+    "index": 140,
+    "name": "D. Vlahovic",
+    "evidence": {
+      "22 WC": {
+        "id": 18015,
+        "name": "Dušan Vlahović"
+      },
+      "24 EURO": {
+        "id": 18015,
+        "name": "Dušan Vlahović"
+      }
+    }
+  },
+  {
+    "index": 141,
+    "name": "V. van de Ven",
+    "evidence": {
+      "24 EURO": {
+        "id": 32547,
+        "name": "Micky van de Ven"
+      }
+    }
+  },
+  {
+    "index": 142,
+    "name": "B. Yildirim",
+    "evidence": {}
+  },
+  {
+    "index": 143,
+    "name": "T. Kroos",
+    "evidence": {
+      "18 WC": {
+        "id": 5574,
+        "name": "Toni Kroos"
+      },
+      "24 EURO": {
+        "id": 5574,
+        "name": "Toni Kroos"
+      }
+    }
+  },
+  {
+    "index": 144,
+    "name": "S. Ramos",
+    "evidence": {
+      "18 WC": {
+        "id": 5201,
+        "name": "Sergio Ramos García"
+      }
+    }
+  },
+  {
+    "index": 145,
+    "name": "G. Bale",
+    "evidence": {
+      "22 WC": {
+        "id": 6399,
+        "name": "Gareth Frank Bale"
+      }
+    }
+  },
+  {
+    "index": 146,
+    "name": "A. Iniesta",
+    "evidence": {
+      "18 WC": {
+        "id": 5216,
+        "name": "Andrés Iniesta Luján"
+      }
+    }
+  },
+  {
+    "index": 147,
+    "name": "M. Ozil",
+    "evidence": {
+      "18 WC": {
+        "id": 3496,
+        "name": "Mesut Özil"
+      }
+    }
+  },
+  {
+    "index": 148,
+    "name": "E. Hazard",
+    "evidence": {
+      "18 WC": {
+        "id": 3621,
+        "name": "Eden Hazard"
+      },
+      "22 WC": {
+        "id": 3621,
+        "name": "Eden Hazard"
+      }
+    }
+  },
+  {
+    "index": 149,
+    "name": "P. Pogba",
+    "evidence": {
+      "18 WC": {
+        "id": 20004,
+        "name": "Paul Pogba"
+      }
+    }
+  },
+  {
+    "index": 150,
+    "name": "H. Lloris",
+    "evidence": {
+      "18 WC": {
+        "id": 3099,
+        "name": "Hugo Lloris"
+      },
+      "22 WC": {
+        "id": 3099,
+        "name": "Hugo Lloris"
+      }
+    }
+  },
+  {
+    "index": 151,
+    "name": "I. Rakitic",
+    "evidence": {
+      "18 WC": {
+        "id": 5470,
+        "name": "Ivan Rakitić"
+      }
+    }
+  },
+  {
+    "index": 152,
+    "name": "D. Silva",
+    "evidence": {
+      "18 WC": {
+        "id": 3064,
+        "name": "David Josué Jiménez Silva"
+      }
+    }
+  },
+  {
+    "index": 153,
+    "name": "G. Pique",
+    "evidence": {
+      "18 WC": {
+        "id": 5213,
+        "name": "Gerard Piqué Bernabéu"
+      }
+    }
+  },
+  {
+    "index": 154,
+    "name": "S. Busquets",
+    "evidence": {
+      "18 WC": {
+        "id": 5203,
+        "name": "Sergio Busquets i Burgos"
+      },
+      "22 WC": {
+        "id": 5203,
+        "name": "Sergio Busquets i Burgos"
+      }
+    }
+  },
+  {
+    "index": 155,
+    "name": "L. Suarez",
+    "evidence": {
+      "18 WC": {
+        "id": 5246,
+        "name": "Luis Alberto Suárez Díaz"
+      },
+      "22 WC": {
+        "id": 5246,
+        "name": "Luis Alberto Suárez Díaz"
+      }
+    }
+  },
+  {
+    "index": 156,
+    "name": "Edinson Cavani",
+    "evidence": {
+      "18 WC": {
+        "id": 4319,
+        "name": "Edinson Roberto Cavani Gómez"
+      },
+      "22 WC": {
+        "id": 4319,
+        "name": "Edinson Roberto Cavani Gómez"
+      }
+    }
+  },
+  {
+    "index": 157,
+    "name": "A. Di Maria",
+    "evidence": {
+      "18 WC": {
+        "id": 2995,
+        "name": "Ángel Fabián Di María Hernández"
+      },
+      "22 WC": {
+        "id": 2995,
+        "name": "Ángel Fabián Di María Hernández"
+      }
+    }
+  },
+  {
+    "index": 158,
+    "name": "K. Benzema",
+    "evidence": {}
+  },
+  {
+    "index": 159,
+    "name": "S. Mane",
+    "evidence": {
+      "18 WC": {
+        "id": 3629,
+        "name": "Sadio Mané"
+      }
+    }
+  }
+]

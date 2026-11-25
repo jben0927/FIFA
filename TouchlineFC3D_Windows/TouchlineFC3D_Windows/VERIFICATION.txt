@@ -1,0 +1,51 @@
+Touchline FC 3D 1.9.0 | 2026-11-25
+
+93 automated tests and 192/192 clear-lane pass receptions passed. The far and
+acute-angle free-kick tests covered both teams and halves, and a plausible
+close free kick still produced a shot. In 240 matched CPU defensive scenarios
+(80 front, 80 side and 80 rear approaches), fouls fell from 52 to 2 and clean
+tackles increased from 179 to 217 compared with 1.8.0.
+Headless GPU rendering verified the whistle shot, four celebrations, the close
+player rig, live gameplay replay and the goal-line camera. 28 referee/aiming
+camera and return-to-play scenarios passed. The frozen Linux software-render
+smoke test passed. Windows x64 was cross-built; native Windows execution and FPS
+were not tested. LAN players must both use 1.9.0 (protocol 9).
+
+Touchline FC 3D 1.8.0 | 2026-11-25
+
+90 automated tests passed. Coverage includes offside in both directions, indirect
+free kicks and double touch, whole-ball crossing, dismissals, keeper reassignment,
+extra time, shoot-out early clinch and sudden death, and LAN mode/state transfer.
+192/192 legal clear-lane reception scenarios passed. Renderer checks displayed the
+offside notice, hid a dismissed player and their minimap marker, and registered a
+saved shoot-out kick from the normal keyboard controls. The 28 existing camera
+and restart scenarios and the frozen Linux software-render smoke also passed.
+Windows x64 binaries were cross-built. Native Windows execution was not tested.
+Both LAN players must run 1.8.0 (protocol 8).
+
+Touchline FC 3D 1.7.1 | 2026-11-25
+
+81 automated tests passed, including ball control, steering recovery and LAN pose
+state for the step-over. Both foot choices were exercised through the game input
+bindings and rendered frame by frame with the actual match ball. The original
+directional skill keys also passed. Clear-lane pass reception remains 192/192.
+The frozen Linux build passed the software-render smoke check with both foot
+choices. Windows x64 binaries were cross-built. Native Windows execution was
+not tested. LAN continues to use protocol 7.
+
+Touchline FC 3D 1.7.0 | 2026-11-25
+
+80 automated tests passed, covering ground movement, gradual acceleration, left/right
+outside-foot choice, angle-sensitive speed loss, facing, sprint parity, replay and LAN
+pose data, charge/release inputs and previous gameplay/club/network regressions.
+Cap at attribute 85, full stamina, without ball: 7.6635 m/s (1.6.0: 9.09225).
+Full charge: 0.78 s. Ball diameter: 0.322 m (physical ground height and 3D geometry).
+192/192 deterministic clear-lane receiving cases passed across four pass types.
+Source gameplay, HUD and presentation checks passed, including low-detail articulated
+boots and knees, 28 camera/restart/home cases, skills, celebrations and real replay.
+Real-engine turn demo: 1280x720, 30 fps, 372 frames. Includes 90-degree cut,
+180-degree reversal, shot charging and 0.4x footwork. Stance-phase ankle position
+was checked against its world-space plant point during the filmed cut.
+Frozen Linux executable passed software-render smoke from a Korean/space path.
+Windows x64 binaries cross-built. Native Windows execution and FPS unverified.
+Online play requires both peers to use version 1.7.0 (protocol 7).

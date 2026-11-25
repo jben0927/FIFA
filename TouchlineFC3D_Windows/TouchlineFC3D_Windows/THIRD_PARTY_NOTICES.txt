@@ -1,0 +1,21 @@
+Panda3D 1.10.16
+https://www.panda3d.org/
+https://github.com/panda3d/panda3d/blob/v1.10.16/LICENSE
+Modified BSD license; the engine's redistribution notices are also included
+in the frozen application distribution by its deployment tooling.
+
+Noto Sans CJK KR
+Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name
+'Source'. Copyright 2014-2021 Google Inc.
+SIL Open Font License 1.1. See assets/OFL.txt.
+Korean.ttf is a subset of Noto Sans CJK KR for Korean and Latin text.
+
+The procedural stadium, footballers and stylized portraits are original game assets.
+Player names identify real footballers; season ratings are custom game-balancing data.
+No EA/FIFA-sourced photographs, club crests or game assets are included.
+Wikimedia Commons photographs are included under the individual conditions in PHOTO_CREDITS.md.
+Source thumbnails remain unmodified; the game uses UV framing and simple face projection.
+The source photo licenses also apply to their appearances in generated captures.
+StatsBomb Open Data was used to verify historical tournament appearances (179 lineups);
+https://github.com/hudl/open-data . Raw event and lineup datasets are not bundled.
+Ratings and attributes are original game-balancing values.

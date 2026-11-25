@@ -1,0 +1,13 @@
+Touchline FC 3D 1.7.0 - startup 2026-11-25T11:19:34.996130
+Python: 3.12.12 (main, Nov 29 2025, 00:39:36) [GCC 10.2.1 20210130 (Red Hat 10.2.1-11)]
+Executable: /tmp/tmpb5x_rkgi/축구 게임 1.7/TouchlineFC3D_Debug
+Working directory: /tmp/tmpb5x_rkgi
+Game folder: /tmp/tmpb5x_rkgi/축구 게임 1.7
+3D render, IJKL/E/SPACE/latched ZD, next-player cursor, manual set pieces, heading, tackle motions, home-rematch: PASS
+Known pipe types:
+  TinyXGraphicsPipe
+  TinyOffscreenGraphicsPipe
+(all display modules loaded.)
+:display:x11display(error): Could not open display ":0.0".
+:device(error): Error adding inotify watch on /dev/input: No such file or directory
+:device(error): Error opening directory /dev/input: No such file or directory
